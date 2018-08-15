@@ -244,6 +244,12 @@ enableGitInfo = false
     icon = "github"
     icon_pack = "fa"
     link = "https://github.com/sahasud1/"
+    
+    [[params.social]]
+    icon = "stackoverflow"
+    icon_pack = "fa"
+    link = "https://stackoverflow.com/users/10161382/ssaha"
+
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
