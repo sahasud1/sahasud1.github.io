@@ -233,7 +233,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "sudip.saha@mail.utoronto.ca"
+    link = "mailto:sudip.saha@mail.utoronto.ca"
 
   [[params.social]]
     icon = "google-scholar"
@@ -249,7 +249,7 @@ enableGitInfo = false
     icon = "stackoverflow"
     icon_pack = "fa"
     link = "https://stackoverflow.com/users/10161382/ssaha"
-
+    
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
