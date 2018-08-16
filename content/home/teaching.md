@@ -14,7 +14,7 @@ subtitle = ""
 weight = 60
 
 +++
-Taught a first year level undergrad course for two semesters (Fall-2012 & Winter-2013) at Ball State University:
+Taught a first year level undergrad course for two semesters (Fall-2012 & Winter-2013) at the Ball State University:
 
 - Math125: Mathematics and Its Applications
 

@@ -1,23 +1,23 @@
 +++
-title = "Example Talk"
-date = 2017-01-01T00:00:00  # Schedule page publish date.
+title = "SSC talk"
+date = 2018-06-04T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2030-06-01T13:00:00
-time_end = 2030-06-01T15:00:00
+time_start = 2018-06-01T14:30:00
+time_end = 2018-06-04T14:45:00
 
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Academic Theme Conference"
-event_url = "https://example.org"
+event = "2018 Annual Meeting in Montréal"
+event_url = "https://ssc.ca/en/meeting/annual/2018"
 
 # Location of event.
-location = "London, United Kingdom"
+location = "Montréal, Canada"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -27,17 +27,17 @@ selected = false
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["deep-learning"]
+#projects = ["deep-learning"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Causal Inference","Screening Trials"]
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
+#url_pdf = ""
+url_slides = "files/SSC.pdf"
+#url_video = ""
+#url_code = ""
 
 # Does the content use math formatting?
 math = true
