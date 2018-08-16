@@ -72,7 +72,7 @@ enableGitInfo = false
   organizations = [ { name = "University of Toronto", url = "https://www.utoronto.ca/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait1.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "sudip.saha@mail.utoronto.ca"
   address = "155 college street, Toronto, ON M5T 3M7, Canada."
   office_hours = ""
