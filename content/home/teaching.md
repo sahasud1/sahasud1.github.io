@@ -14,15 +14,18 @@ subtitle = ""
 weight = 60
 
 +++
+Taught a frist year undergrad 
 
-This is an example of using the *custom* widget to create your own homepage section.
+Recent TA work at the University of Toronto:
 
-I am a teaching instructor for the following courses at University X:
+Grad courses:
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- CHL5227H: Introduction to Statistical Methods for Clinical Trials
+- CHL5210H: Categorical Data Analysis
+
+Undergrad courses:
+
+- Stab22: Statistics I
+- Stab23: Introduction to Statistics for the Social Sciences
+- Stab52: Introduction to Probability
+- Stac51: Categorical Data Analysis

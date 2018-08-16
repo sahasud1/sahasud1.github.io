@@ -18,7 +18,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD candidate in Biostatistics"
-  institution = "University of Toronto",  url = "https://www.utoronto.ca/"
+  institution = "University of Toronto"
   year = 2020
 
 [[education.courses]]
@@ -35,4 +35,4 @@ weight = 5
 
 # Biography
 
-Sudipta Saha is a PhD student in Biostatistics at the University of Toronto. His research interests include causal inference, survival analysis and predictive modeling. He also works as a research assistant in the breast cancer research unit at the Princies Margaret Hospital (PMH), where he works with researchers to identify risk factors for breast cancer.
+Sudipta Saha is a PhD candidate in Biostatistics at the University of Toronto. His research interests include causal inference, survival analysis and predictive modeling. He also works as a research assistant in the breast cancer research unit at the Princies Margaret Hospital (PMH), where he works with researchers to identify risk factors for breast cancer.
