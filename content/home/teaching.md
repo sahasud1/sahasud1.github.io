@@ -14,7 +14,9 @@ subtitle = ""
 weight = 60
 
 +++
-Taught a frist year undergrad 
+Taught a first year level undergrad course for two semesters (Fall-2012 & Winter-2013) at Ball State University:
+
+- Math125: Mathematics and Its Applications
 
 Recent TA work at the University of Toronto:
 
