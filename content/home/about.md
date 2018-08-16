@@ -22,7 +22,7 @@ weight = 5
   year = 2020
 
 [[education.courses]]
-  course = "M.Sc in Mathematical Statistics"
+  course = "M.Sc in Mathematical Statistics" 
   institution = "Ball State University"
   year = 2013
 
