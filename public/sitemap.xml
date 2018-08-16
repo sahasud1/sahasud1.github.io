@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>https://sahasud1.github.io/privacy/</loc>
+      <loc>/privacy/</loc>
       <lastmod>2018-06-28T00:00:00-04:00</lastmod>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
     
-      <loc>https://sahasud1.github.io/talk/example-talk/</loc>
+      <loc>/talk/example-talk/</loc>
       <lastmod>2018-06-04T00:00:00-04:00</lastmod>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
     
-      <loc>https://sahasud1.github.io/post/</loc>
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -28,7 +28,7 @@
     
     <url>
     
-      <loc>https://sahasud1.github.io/publication/</loc>
+      <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -36,7 +36,7 @@
     
     <url>
     
-      <loc>https://sahasud1.github.io/talk/</loc>
+      <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -44,7 +44,7 @@
     
     <url>
     
-      <loc>https://sahasud1.github.io/project/deep-learning/</loc>
+      <loc>/project/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -52,7 +52,7 @@
     
     <url>
     
-      <loc>https://sahasud1.github.io/project/example-external-project/</loc>
+      <loc>/project/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -60,7 +60,7 @@
     
     <url>
     
-      <loc>https://sahasud1.github.io/post/getting-started/</loc>
+      <loc>/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00-05:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>https://sahasud1.github.io/publication/person-re-identification/</loc>
+      <loc>/publication/person-re-identification/</loc>
       <lastmod>2015-09-01T00:00:00-04:00</lastmod>
     </url>
     
@@ -76,7 +76,7 @@
     
     <url>
     
-      <loc>https://sahasud1.github.io/post/2015-07-23-r-rmarkdown/</loc>
+      <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
@@ -84,7 +84,7 @@
     
     <url>
     
-      <loc>https://sahasud1.github.io/publication/clothing-search/</loc>
+      <loc>/publication/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00-04:00</lastmod>
     </url>
     
@@ -92,7 +92,88 @@
     
     <url>
     
-      <loc>https://sahasud1.github.io/</loc>
+      <loc>/tags/academic/</loc>
+      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/causal-inference/</loc>
+      <lastmod>2018-06-04T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/plot/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/r-markdown/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/regression/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/screening-trials/</loc>
+      <lastmod>2018-06-04T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
       <lastmod>2016-04-20T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -101,88 +182,7 @@
     
     <url>
     
-      <loc>https://sahasud1.github.io/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sahasud1.github.io/tags/causal-inference/</loc>
-      <lastmod>2018-06-04T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sahasud1.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sahasud1.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sahasud1.github.io/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sahasud1.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sahasud1.github.io/tags/r-markdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sahasud1.github.io/tags/regression/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sahasud1.github.io/tags/screening-trials/</loc>
-      <lastmod>2018-06-04T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sahasud1.github.io/tags/</loc>
+      <loc>/tags/</loc>
       <lastmod>2018-01-13T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
