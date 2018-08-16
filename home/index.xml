@@ -7,29 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://sahasud1.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://sahasud1.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://sahasud1.github.io/home/hero_carousel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academic</title>
-      <link>https://sahasud1.github.io/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://sahasud1.github.io/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
-(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
-    </item>
     
     <item>
       <title></title>
@@ -37,7 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://sahasud1.github.io/home/about/</guid>
-      <description>Biography Sudipta Saha is a PhD student in Biostatistics at the University of Toronto. His research interests include causal inference, survival analysis and predictive modeling. He also works as a research assistant in the breast cancer research unit at the Princies Margaret Hospital (PMH), where he works with researchers to identify risk factors for breast cancer.</description>
+      <description>Biography Sudipta Saha is a PhD candidate in Biostatistics at the University of Toronto. His research interests include causal inference, survival analysis and predictive modeling. He also works as a research assistant in the breast cancer research unit at the Princies Margaret Hospital (PMH), where he works with researchers to identify risk factors for breast cancer.</description>
     </item>
     
     <item>
@@ -139,6 +120,15 @@ I am a teaching instructor for the following courses at University X:
       
       <guid>https://sahasud1.github.io/home/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sahasud1.github.io/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sahasud1.github.io/home/about/</guid>
+      <description>code{white-space: pre;}  pre:not([class]) { background-color: white; }  if (window.hljs &amp;&amp; document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .table th:not([align]) { text-align: left; }    .</description>
     </item>
     
   </channel>
