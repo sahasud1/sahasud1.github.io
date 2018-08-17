@@ -69,4 +69,3 @@ image = ""
 caption = "My caption :smile:"
 
 +++
-
