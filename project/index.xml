@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Sudipta Saha</title>
-    <link>https://sahasud1.github.io/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on Sudipta Saha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://sahasud1.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Breast feeding survalance project</title>
-      <link>https://sahasud1.github.io/project/deep-learning/</link>
+      <link>/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://sahasud1.github.io/project/deep-learning/</guid>
+      <guid>/project/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Other Project</title>
-      <link>https://sahasud1.github.io/project/example-external-project/</link>
+      <link>/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://sahasud1.github.io/project/example-external-project/</guid>
+      <guid>/project/example-external-project/</guid>
       <description></description>
     </item>
     
