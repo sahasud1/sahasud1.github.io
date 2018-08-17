@@ -247,9 +247,10 @@ enableGitInfo = false
     link = "https://github.com/sahasud1/"
     
     [[params.social]]
-    icon = "stackoverflow"
-    icon_pack = "fa"
-    link = "https://stackoverflow.com/users/10161382/ssaha"
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Sudipta_Saha4"
+
     
 
   # Link to a PDF of your resume/CV from the About widget.
