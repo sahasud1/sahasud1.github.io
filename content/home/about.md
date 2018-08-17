@@ -18,7 +18,7 @@ weight = 1
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD candidate in Biostatistics"
-  institution = "University of Toronto"
+  institution = "University of Toronto" 
   year = 2020
 
 [[education.courses]]

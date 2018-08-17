@@ -20,5 +20,7 @@ image_preview = ""
 
 # Does the project detail page use math formatting?
 math = false
+
+comments=true
 +++
 
