@@ -12,7 +12,7 @@ weight = 1
   interests = [
     "Causal Inference",
     "Survival Analysis",
-    "Predictive Modeling"
+    "Predictive Modelling"
   ]
 
 # List your qualifications (such as academic degrees).
