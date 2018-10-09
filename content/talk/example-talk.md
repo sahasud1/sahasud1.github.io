@@ -35,7 +35,7 @@ tags = ["Causal Inference","Screening Trials"]
 
 # Links (optional).
 #url_pdf = ""
-#url_slides = "files/SSC.pdf"
+url_slides = "files/SSC.pdf"
 #url_video = ""
 #url_code = ""
 
