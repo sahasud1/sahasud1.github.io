@@ -4,7 +4,7 @@ widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Projects"
+title = "Statistical Consultant"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -30,8 +30,8 @@ filter_default = 0
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 [[filter]]
-  name = "All"
-  tag = "*"
+  name = ""
+  tag = "GAM"
 
 [[filter]]
   name = "Deep Learning"
