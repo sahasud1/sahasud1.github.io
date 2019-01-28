@@ -14,7 +14,7 @@ image_preview = "flowchart.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-# tags = ["Deep Learning"]
+tags = ["R"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://www.publichealthontario.ca/en/ServicesAndTools/Documents/LDCP/LDCP%20IFS%20PQ%20User%20Guide%20Final.pdf"

@@ -34,7 +34,7 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Hannam Fertility Project"
+  name = "Hannam fertility project"
   tag = "GAM"
 
 [[filter]]

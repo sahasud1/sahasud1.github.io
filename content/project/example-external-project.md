@@ -3,7 +3,7 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Hannam Fertility Centre"
+title = "Hannam fertility project"
 
 # Project summary to display on homepage.
 summary = ""
@@ -13,7 +13,7 @@ image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-#tags = ["Demo"]
+tags = ["GAM"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "http://example.org"
