@@ -31,15 +31,15 @@ filter_default = 0
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 [[filter]]
   name = ""
+  tag = "*"
+
+[[filter]]
+  name = "Hannam Fertility Centre"
   tag = "GAM"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
-
-[[filter]]
-  name = "Other"
-  tag = "Demo"
+  name = "Oxford County Public Health"
+  tag = "Syntax"
 
 +++
 
