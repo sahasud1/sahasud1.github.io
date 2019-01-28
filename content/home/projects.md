@@ -40,6 +40,5 @@ filter_default = 0
 [[filter]]
   name = "Oxford County Public Health"
   tag = "Syntax"
-
 +++
 
