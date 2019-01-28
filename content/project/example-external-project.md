@@ -3,7 +3,7 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Other Project"
+title = "Hannam Fertility Centre"
 
 # Project summary to display on homepage.
 summary = ""

@@ -34,11 +34,11 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Hannam Fertility Centre"
+  name = "Hannam Fertility Project"
   tag = "GAM"
 
 [[filter]]
-  name = "Oxford County Public Health"
+  name = "Breast feeding survalance project"
   tag = "R"
 +++
 
