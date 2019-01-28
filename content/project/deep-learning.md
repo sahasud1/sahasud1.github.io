@@ -28,4 +28,4 @@ math = True
 # caption = "My caption :smile:"
 +++
 In this project, we developed methodologies and codes for calculating quality indicators for breast feeding using several statistical
-software (e.g.  R, SAS, SPSS, STATA). Spacial thanks to my collegues Shahriar Shams and Kaviul Anam Khan, for translating the codes in SPSS and STATA. Details are available [here](https://www.publichealthontario.ca/en/ServicesAndTools/Documents/LDCP/LDCP%20IFS%20PQ%20User%20Guide%20Final.pdf).
+software (e.g.  R, SAS, SPSS, STATA). Spacial thanks to my collegues Shahriar Shams and Kaviul Anam Khan, for translating the codes in SPSS and STATA. Details are available [here](https://www.publichealthontario.ca/en/ServicesAndTools/Documents/LDCP/LDCP%20IFS%20PQ%20User%20Guide%20Final.pdf). Flowcharts are used illustrate the logic. The codes are also available in the Appendix sectioon of the document. 
