@@ -27,4 +27,5 @@ math = True
 # image = "headers/bubbles-wide.jpg"
 # caption = "My caption :smile:"
 +++
-
+In this project, we developed methodologies and codes for calculating quality indicators for breast feeding using several statistical
+software (e.g.  R, SAS, SPSS, STATA). Spacial thanks to my collegues Shahriar Shams and Kaviul Anam Khan, for translating the codes in SPSS and STATA.
