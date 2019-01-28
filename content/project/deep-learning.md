@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2019-01-28T00:00:00
 
 # Project title.
 title = "Breast feeding survalance project"
@@ -20,7 +20,7 @@ image_preview = "flowchart.png"
 external_link = "https://www.publichealthontario.ca/en/ServicesAndTools/Documents/LDCP/LDCP%20IFS%20PQ%20User%20Guide%20Final.pdf"
 
 # Does the project detail page use math formatting?
-math = false
+math = True
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
