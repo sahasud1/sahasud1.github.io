@@ -19,7 +19,7 @@ tags = ["GAM"]
 #external_link = "http://example.org"
 
 # Does the project detail page use math formatting?
-math = false
+math = true
 
 comments=true
 +++

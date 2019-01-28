@@ -20,7 +20,7 @@ tags = ["R"]
 external_link = "https://www.publichealthontario.ca/en/ServicesAndTools/Documents/LDCP/LDCP%20IFS%20PQ%20User%20Guide%20Final.pdf"
 
 # Does the project detail page use math formatting?
-math = True
+math = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
