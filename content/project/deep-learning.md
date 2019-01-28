@@ -7,7 +7,7 @@ title = "Breast feeding survalance project"
 
 # Project summary to display on homepage.
 summary = "In this project, we developed methodologies and codes for calculating quality indicators for breast feeding using several statistical
-software (e.g.  R, SAS, SPSS, STATA). Spacial thanks to my collegues Shahriar Shams and Kaviul Anam Khan, for translating the codes in SPSS and STATA. "
+software (e.g.  R, SAS, SPSS, STATA). Spacial thanks to my collegues Shahriar Shams and Kaviul Anam Khan, for translating the codes in SPSS and STATA."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "flowchart.png"
